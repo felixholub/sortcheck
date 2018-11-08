@@ -1,0 +1,9 @@
+v 1
+d Felix Holub, University of Mannheim (feholub@mail.uni-mannheim.de)
+p printtime PRINTTIME - Stata commands for printing date and time
+
+* l word-to-show path-or-url [description]
+* t: Directories within site:
+* t path [description]
+* Packages:
+* p pkgname [description]
